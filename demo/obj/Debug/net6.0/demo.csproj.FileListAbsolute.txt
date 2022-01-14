@@ -1,0 +1,15 @@
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\bin\Debug\net6.0\demo.exe
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\bin\Debug\net6.0\demo.deps.json
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\bin\Debug\net6.0\demo.dll
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\bin\Debug\net6.0\ref\demo.dll
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\bin\Debug\net6.0\demo.pdb
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\obj\Debug\net6.0\demo.dll
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\obj\Debug\net6.0\ref\demo.dll
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\obj\Debug\net6.0\demo.pdb
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
