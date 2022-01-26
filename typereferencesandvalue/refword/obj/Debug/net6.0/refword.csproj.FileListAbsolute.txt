@@ -1,0 +1,15 @@
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\bin\Debug\net6.0\refword.exe
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\bin\Debug\net6.0\refword.deps.json
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\bin\Debug\net6.0\refword.runtimeconfig.json
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\bin\Debug\net6.0\refword.dll
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\bin\Debug\net6.0\ref\refword.dll
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\bin\Debug\net6.0\refword.pdb
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\obj\Debug\net6.0\refword.csproj.AssemblyReference.cache
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\obj\Debug\net6.0\refword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\obj\Debug\net6.0\refword.AssemblyInfoInputs.cache
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\obj\Debug\net6.0\refword.AssemblyInfo.cs
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\obj\Debug\net6.0\refword.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\obj\Debug\net6.0\refword.dll
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\obj\Debug\net6.0\ref\refword.dll
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\obj\Debug\net6.0\refword.pdb
+C:\Users\Ronan\Desktop\Prog\c#\gft_start3-dotnet\typereferencesandvalue\refword\obj\Debug\net6.0\refword.genruntimeconfig.cache
